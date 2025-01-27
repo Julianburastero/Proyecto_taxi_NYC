@@ -154,7 +154,7 @@ Esta segunda reunión con nuestro cliente Taxicom 2.0 tiene el objetivo de mostr
 
 ## Extracción,tranformación y carga de datos
 
-![Ciclo de vida del dato](CicloDato.png)
+![Ciclo de vida del dato](IMG/CicloDato.png)
 
 En esta primera parte veremos el ciclo de vida del dato. Explicación de los pasos en el VIDEO:  
 
@@ -379,7 +379,7 @@ Nuestra función create_dataset_and_table_and_move_data_bq incluye el proceso de
 
 ## Diagrama entidad relación
 
-![Diagrama de entidad relacion](ER.jpg)
+![Diagrama de entidad relacion](IMG/ER.jpg)
 
 
 El siguiente diagrama entidad relación es un modelo en formato de copo de nieve (Snowflake Schema) debido a lo siguiente:
@@ -568,7 +568,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
      + Semana.
    Este análisis es ideal para descubrir insights sobre la facturación y la demanda horaria.
 
-   ![Facturación y Demanda](./Facturación%20y%20demanda.png)
+   ![Facturación y Demanda](IMG/Temporal.png)
 
 3. **Demanda por Zonas**
    - Exploración dinámica de la demanda de taxis en las distintas zonas de Nueva York, junto con un análisis de la duración promedio de los viajes.
@@ -586,7 +586,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
      + Distrito.
    Esta sección permite analizar las áreas de mayor actividad y las diferencias geográficas en la ciudad, además de explorar la duración de los viajes.
 
-   ![Volumen y Distribución](./Volumen%20y%20distribución.png)
+   ![Volumen y Distribución](IMG/Geografico.png)
 
 4. **Emisiones de CO₂**
    - Análisis de las emisiones de CO₂ de los vehículos, diferenciando por tipo de combustible.
@@ -604,7 +604,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
      + Distrito.
    - Identifica tendencias y patrones relacionados con las emisiones de CO₂, ayudando a reflexionar sobre posibles estrategias de mejora.
 
-   ![Análisis Ambiental CO₂](C02.png)
+   ![Análisis Ambiental CO₂](IMG/C02.png)
 
 5. **KPI's y Objetivos**
    Presentación de las métricas clave (KPI's) relacionadas con los objetivos de la empresa. Los principales objetivos son:
