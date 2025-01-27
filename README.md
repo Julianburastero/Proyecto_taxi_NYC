@@ -629,7 +629,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
        + Expansión de la flota y contratación de conductores.
        + Enfoque en vehículos eléctricos para mayor eficiencia.
 
-   ![KPI's y Objetivos](Kpi.png)
+   ![KPI's y Objetivos](b:/r/Proyecto_taxi_NYC/IMG/KPI.PNG)
 
 
 ## Conclusiones y Recomendaciones
