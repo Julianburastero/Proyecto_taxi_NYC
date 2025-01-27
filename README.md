@@ -568,7 +568,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
      + Semana.
    Este análisis es ideal para descubrir insights sobre la facturación y la demanda horaria.
 
-   ![Facturación y Demanda](IMG/Temporal.png)
+   ![Facturación y Demanda](IMG/Temporal.PNG)
 
 3. **Demanda por Zonas**
    - Exploración dinámica de la demanda de taxis en las distintas zonas de Nueva York, junto con un análisis de la duración promedio de los viajes.
@@ -586,7 +586,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
      + Distrito.
    Esta sección permite analizar las áreas de mayor actividad y las diferencias geográficas en la ciudad, además de explorar la duración de los viajes.
 
-   ![Volumen y Distribución](IMG/Geografico.png)
+   ![Volumen y Distribución](IMG/Geografico.PNG)
 
 4. **Emisiones de CO₂**
    - Análisis de las emisiones de CO₂ de los vehículos, diferenciando por tipo de combustible.
@@ -604,7 +604,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
      + Distrito.
    - Identifica tendencias y patrones relacionados con las emisiones de CO₂, ayudando a reflexionar sobre posibles estrategias de mejora.
 
-   ![Análisis Ambiental CO₂](IMG/C02.png)
+   ![Análisis Ambiental CO₂](IMG/C02.PNG)
 
 5. **KPI's y Objetivos**
    Presentación de las métricas clave (KPI's) relacionadas con los objetivos de la empresa. Los principales objetivos son:
