@@ -604,7 +604,7 @@ Cada pestaña incluye un símbolo de información que, al hacer clic, muestra un
      + Distrito.
    - Identifica tendencias y patrones relacionados con las emisiones de CO₂, ayudando a reflexionar sobre posibles estrategias de mejora.
 
-   ![Análisis Ambiental CO₂](IMG/C02.PNG)
+   ![Análisis Ambiental CO₂](IMG/CO2.PNG)
 
 5. **KPI's y Objetivos**
    Presentación de las métricas clave (KPI's) relacionadas con los objetivos de la empresa. Los principales objetivos son:
